@@ -1,4 +1,5 @@
 ### Hi there 👋
+##안녕하세요! 저는 의료공학을 전공하는 나홍준 입니다 :)
 
 <!--
 **hongjunna/hongjunna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
